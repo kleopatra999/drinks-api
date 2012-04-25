@@ -1,0 +1,900 @@
+{
+    "Bar": [
+        {
+            "Name": "Blueline",
+            "ShortName": "blueline",
+            "Street": "602 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-585-2641",
+            "Email": "info@bluelinenightclub.com",
+            "Website": "http://www.bluelinenightclub.com",
+            "Website2": "",
+            "Facebook": "http://www.facebook.com/bluelinebloomington",
+            "Twitter": "bluelineclub",
+            "Image": "./images/blueline.jpg",
+            "Hours": {
+                "Sunday": "7:00pm-1:00am",
+                "Monday": "Closed",
+                "Tuesday": "7:00pm-1:00am",
+                "Wednesday": "7:00pm-1:00am",
+                "Thursday": "7:00pm-1:00am",
+                "Friday": "5:00pm-2:00am",
+                "Saturday": "5:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "Closed",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "Closed"
+                },
+                "Tuesday": {
+                    "Special": "No Specials"
+                },
+                "Wednesday": {
+                    "Special": "$3 House Wines"
+                },
+                "Thursday": {
+                    "Special": "Free Drinks on your Birthday"
+                },
+                "Friday": {
+                    "Special": "Free Drinks on your Birthday"
+                },
+                "Saturday": {
+                    "Special": "$2.50 Miller Lite Bottles"
+                }
+            }
+        },
+        {
+            "Name": "CII East",
+            "ShortName": "ciieast",
+            "Street": "102 S. East",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-828-0431",
+            "Email": "",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/ciieast.jpg",
+            "Hours": {
+                "Sunday": "7:00pm-1:00am",
+                "Monday": "4:00pm-1:00am",
+                "Tuesday": "7:00pm-1:00am",
+                "Wednesday": "7:00pm-1:00am",
+                "Thursday": "7:00pm-1:00am",
+                "Friday": "5:00pm-2:00am",
+                "Saturday": "5:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "$2 Domestic Bottles"
+                },
+                "Tuesday": {
+                    "Special": "$3 Bacardi and Mixers"
+                },
+                "Wednesday": {
+                    "Special": "$2 Select 55 Bottles"
+                },
+                "Thursday": {
+                    "Special": "$3 Corona/Corona Light Bottles"
+                },
+                "Friday": {
+                    "Special": "$3 Cherry Bombs"
+                },
+                "Saturday": {
+                    "Special": "$1.50 Bud Light Draught"
+                }
+            }
+        },
+        {
+            "Name": "Chasers",
+            "ShortName": "chasers",
+            "Street": "110 W. Washington",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-820-1330",
+            "Email": "chasersbloomington@yahoo.com",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/chasers.jpg",
+            "Hours": {
+                "Sunday": "Closed",
+                "Monday": "Closed",
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "9:00pm-1:00am",
+                "Friday": "9:00pm-2:00am",
+                "Saturday": "9:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "$3 Students, $5 Non Students",
+                "Friday": "$3 Students, $5 Non Students",
+                "Saturday": "$3 Students, $5 Non Students"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "Closed"
+                },
+                "Monday": {
+                    "Special": "Closed"
+                },
+                "Tuesday": {
+                    "Special": "Closed"
+                },
+                "Wednesday": {
+                    "Special": "Closed"
+                },
+                "Thursday": {
+                    "Special": "$1 Beers"
+                },
+                "Friday": {
+                    "Special": "$3 Jack and Cokes"
+                },
+                "Saturday": {
+                    "Special": "$3 Top Shelf Anything"
+                }
+            }
+        },
+        {
+            "Name": "Daddios",
+            "ShortName": "daddios",
+            "Street": "527 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-828-4434",
+            "Email": "daddioslive777@gmail.com",
+            "Website": "http://www.daddiosbloomington.com",
+            "Website2": "http://www.myspace.com/daddioslive",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/daddios.jpg",
+            "Hours": {
+                "Sunday": "Closed",
+                "Monday": "Closed",
+                "Tuesday": "Closed",
+                "Wednesday": "Closed",
+                "Thursday": "8:00pm-1:00am",
+                "Friday": "8:00pm-2:00am",
+                "Saturday": "8:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "$5 Students, $10 Non Students",
+                "Friday": "$5 Students, $10 Non Students",
+                "Saturday": "$5 Students, $10 Non Students"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "Closed"
+                },
+                "Monday": {
+                    "Special": "Closed"
+                },
+                "Tuesday": {
+                    "Special": "Closed"
+                },
+                "Wednesday": {
+                    "Special": "Closed"
+                },
+                "Thursday": {
+                    "Special": "$1 U-Call-Its"
+                },
+                "Friday": {
+                    "Special": "$5.25 16oz UV Vodka Mixed Drinks"
+                },
+                "Saturday": {
+                    "Special": "$5.25 16oz UV Vodka Mixed Drinks"
+                }
+            }
+        },
+        {
+            "Name": "Drifters",
+            "ShortName": "drifters",
+            "Street": "612 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-829-1920",
+            "Email": "thehurleyagency@gmail.com",
+            "Website": "http://www.drifterspub.com",
+            "Website2": "",
+            "Facebook": "http://www.facebook.com/drifterspub",
+            "Twitter": "drifterspub",
+            "Image": "./images/drifters.jpg",
+            "Hours": {
+                "Sunday": "5:00pm-1:00am",
+                "Monday": "5:00pm-1:00am",
+                "Tuesday": "5:00pm-1:00am",
+                "Wednesday": "5:00pm-1:00am",
+                "Thursday": "5:00pm-1:00am",
+                "Friday": "5:00pm-2:00am",
+                "Saturday": "5:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$0.75 Well Drinks"
+                },
+                "Monday": {
+                    "Special": "$2 Well Drinks"
+                },
+                "Tuesday": {
+                    "Special": "$2 Beer"
+                },
+                "Wednesday": {
+                    "Special": "$2 Beer"
+                },
+                "Thursday": {
+                    "Special": "$1.50 Jello Shots"
+                },
+                "Friday": {
+                    "Special": "$2 Miller/Coors Light Pints"
+                },
+                "Saturday": {
+                    "Special": "$2 Bud Family Pints"
+                }
+            }
+        },
+        {
+            "Name": "Elroys",
+            "ShortName": "elroys",
+            "Street": "102 W. Washington",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-828-0142",
+            "Email": "",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "elroysbar",
+            "Image": "./images/elroys.jpg",
+            "Hours": {
+                "Sunday": "11:00am-1:00am",
+                "Monday": "11:00am-1:00am",
+                "Tuesday": "11:00am-1:00am",
+                "Wednesday": "11:00am-1:00am",
+                "Thursday": "11:00am-1:00am",
+                "Friday": "11:00am-2:00am",
+                "Saturday": "11:00am-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$2.75 25oz Drafts"
+                },
+                "Monday": {
+                    "Special": "$4 Pitchers"
+                },
+                "Tuesday": {
+                    "Special": "$2 Bud Family Bottles"
+                },
+                "Wednesday": {
+                    "Special": "$2.75 25oz Drafts"
+                },
+                "Thursday": {
+                    "Special": "$2 Bud or Budlight w/ a Well Shot"
+                },
+                "Friday": {
+                    "Special": "$3 Pitchers"
+                },
+                "Saturday": {
+                    "Special": "$3 Pitchers"
+                }
+            }
+        },
+        {
+            "Name": "Fat Jacks",
+            "ShortName": "fatjacks",
+            "Street": "501 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-821-9222",
+            "Email": "fatjacksinc@yahoo.com",
+            "Website": "http://www.fatjacksinc.net",
+            "Website2": "http://www.youtube.com/user/fatjacksroom4?feature=mhw5",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/fatjacks.jpg",
+            "Hours": {
+                "Sunday": "3:00pm-1:00am",
+                "Monday": "3:00pm-1:00am",
+                "Tuesday": "3:00pm-1:00am",
+                "Wednesday": "3:00pm-1:00am",
+                "Thursday": "3:00pm-1:00am",
+                "Friday": "3:00pm-2:00am",
+                "Saturday": "3:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "$5 Cover",
+                "Friday": "$5 Cover",
+                "Saturday": "$5 Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$2.75 Malibu Mixed Drinks"
+                },
+                "Monday": {
+                    "Special": "$2.75 Malibu Mixed Drinks"
+                },
+                "Tuesday": {
+                    "Special": "$2.75 All Draught Beers"
+                },
+                "Wednesday": {
+                    "Special": "$1 Well Drinks"
+                },
+                "Thursday": {
+                    "Special": "$3 Draught Pints"
+                },
+                "Friday": {
+                    "Special": "$2.75 Fat Jack Cocktails"
+                },
+                "Saturday": {
+                    "Special": "$2.75 Bacardi Hurricanes and Tsunamis"
+                }
+            }
+        },
+        {
+            "Name": "Firehouse",
+            "ShortName": "firehouse",
+            "Street": "107 E. Beaufort",
+            "City": "Normal",
+            "State": "IL",
+            "Zip": "61761",
+            "Phone": "309-808-1597",
+            "Email": "",
+            "Website": "http://www.firehousepizza911.com",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/firehouse.jpg",
+            "Hours": {
+                "Sunday": "11:00am-2:00am",
+                "Monday": "11:00am-2:00am",
+                "Tuesday": "11:00am-2:00am",
+                "Wednesday": "11:00am-2:00am",
+                "Thursday": "11:00am-2:00am",
+                "Friday": "11:00am-3:00am",
+                "Saturday": "11:00am-3:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "No Specials"
+                },
+                "Tuesday": {
+                    "Special": "No Specials"
+                },
+                "Wednesday": {
+                    "Special": "No Specials"
+                },
+                "Thursday": {
+                    "Special": "No Specials"
+                },
+                "Friday": {
+                    "Special": "No Specials"
+                },
+                "Saturday": {
+                    "Special": "No Specials"
+                }
+            }
+        },
+        {
+            "Name": "Illinois Brewing Co",
+            "ShortName": "ibc",
+            "Street": "102 N. Center",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-829-2805",
+            "Email": "",
+            "Website": "http://www.illinoisbrewing.com",
+            "Website2": "http://www.myspace.com/illinoisbrewing",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./image/ibc.jpg",
+            "Hours": {
+                "Sunday": "12:00pm-1:00am",
+                "Monday": "11:00am-1:00am",
+                "Tuesday": "11:00am-1:00am",
+                "Wednesday": "11:00am-1:00am",
+                "Thursday": "11:00am-1:00am",
+                "Friday": "11:00am-2:00am",
+                "Saturday": "11:00am-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$1.75 Domestic Bottles until 8:00pm"
+                },
+                "Monday": {
+                    "Special": "$1 10oz Draft Beers"
+                },
+                "Tuesday": {
+                    "Special": "$2 IBC Draft Pints"
+                },
+                "Wednesday": {
+                    "Special": "$1 10oz Draft Cider"
+                },
+                "Thursday": {
+                    "Special": "$2.75 Corona or Corona Light"
+                },
+                "Friday": {
+                    "Special": "$2 OTurleys Lite Pint"
+                },
+                "Saturday": {
+                    "Special": "$2 Brewmasters Choice IBC Draft Pint"
+                }
+            }
+        },
+        {
+            "Name": "Killarneys",
+            "ShortName": "killarneys",
+            "Street": "523 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-828-1186",
+            "Email": "",
+            "Website": "http://www.myspace.com/killarneysirishpub",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/killarneys.jpg",
+            "Hours": {
+                "Sunday": "Closed",
+                "Monday": "Closed",
+                "Tuesday": "3:00pm-1:00am",
+                "Wednesday": "3:00pm-1:00am",
+                "Thursday": "3:00pm-1:00am",
+                "Friday": "3:00pm-2:00am",
+                "Saturday": "7:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "No Specials"
+                },
+                "Tuesday": {
+                    "Special": "$3 U-Call-Its"
+                },
+                "Wednesday": {
+                    "Special": "$3 U-Call-Its"
+                },
+                "Thursday": {
+                    "Special": "$3 U-Call-Its"
+                },
+                "Friday": {
+                    "Special": "$6 32oz Mixed Well Drinks"
+                },
+                "Saturday": {
+                    "Special": "$2.75 Spiced Rum Drinks"
+                }
+            }
+        },
+        {
+            "Name": "Maggie Mileys",
+            "ShortName": "maggies",
+            "Street": "126 E. Beaufort",
+            "City": "Normal",
+            "State": "IL",
+            "Zip": "61761",
+            "Phone": "309-807-4301",
+            "Email": "",
+            "Website": "http://www.maggiemileys.com",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/maggiemileys.jpg",
+            "Hours": {
+                "Sunday": "12:00am-1:00am",
+                "Monday": "11:00am-1:00am",
+                "Tuesday": "11:00am-1:00am",
+                "Wednesday": "11:00am-1:00am",
+                "Thursday": "11:00am-1:00am",
+                "Friday": "11:00am-2:00am",
+                "Saturday": "11:00am-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$4 Ketel One Bloody Marys"
+                },
+                "Monday": {
+                    "Special": "$3 All Bottled Imports"
+                },
+                "Tuesday": {
+                    "Special": "$3 Malibu Rum Drinks"
+                },
+                "Wednesday": {
+                    "Special": "$3 All Whiskey Drinks"
+                },
+                "Thursday": {
+                    "Special": "$3.75 20oz Pints"
+                },
+                "Friday": {
+                    "Special": "$4 Irish Long Islands"
+                },
+                "Saturday": {
+                    "Special": "$3 Flavored Smirnoff Drinks"
+                }
+            }
+        },
+        {
+            "Name": "Maguires",
+            "ShortName": "maguires",
+            "Street": "220 N. Center",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-829-0002",
+            "Email": "",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/maguires.jpg",
+            "Hours": {
+                "Sunday": "12:00pm-1:00am",
+                "Monday": "11:00am-1:00am",
+                "Tuesday": "11:00am-1:00am",
+                "Wednesday": "11:00am-1:00am",
+                "Thursday": "11:00am-1:00am",
+                "Friday": "11:00am-2:00am",
+                "Saturday": "11:00am-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "No Specials"
+                },
+                "Tuesday": {
+                    "Special": "No Specials"
+                },
+                "Wednesday": {
+                    "Special": "No Specials"
+                },
+                "Thursday": {
+                    "Special": "No Specials"
+                },
+                "Friday": {
+                    "Special": "No Specials"
+                },
+                "Saturday": {
+                    "Special": "No Specials"
+                }
+            }
+        },
+        {
+            "Name": "Mulligans",
+            "ShortName": "mulligans",
+            "Street": "531 N. Main",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-827-7796",
+            "Email": "mulligansbar@gmail.com",
+            "Website": "http://www.myspace.com/mulliganstavern",
+            "Website2": "",
+            "Facebook": "http://www.facebook.com/pages/Bloomington-IL/Mulligans/129809901523",
+            "Twitter": "",
+            "Image": "./images/mulligans.jpg",
+            "Hours": {
+                "Sunday": "Closed",
+                "Monday": "3:00pm-1:00am",
+                "Tuesday": "3:00pm-1:00am",
+                "Wednesday": "3:00pm-1:00am",
+                "Thursday": "3:00pm-1:00am",
+                "Friday": "3:00pm-2:00am",
+                "Saturday": "12:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "Closed"
+                },
+                "Monday": {
+                    "Special": "$1.75 Domestic Bottles"
+                },
+                "Tuesday": {
+                    "Special": "$2.50 Blue Moon Bottles"
+                },
+                "Wednesday": {
+                    "Special": "$2.75 Captain or Smirnoff Drinks"
+                },
+                "Thursday": {
+                    "Special": "$6 32oz Vodka Redbull"
+                },
+                "Friday": {
+                    "Special": "$6 32oz Long Islands"
+                },
+                "Saturday": {
+                    "Special": "$6 32oz Rum and RC"
+                }
+            }
+        },
+        {
+            "Name": "Pub II",
+            "ShortName": "pubii",
+            "Street": "102 N. Linden",
+            "City": "Normal",
+            "State": "IL",
+            "Zip": "61761",
+            "Phone": "309-452-0699",
+            "Email": "",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "http://www.facebook.com/pages/Normal-IL/Pub-II/223090677499",
+            "Twitter": "",
+            "Image": "./images/pubii.jpg",
+            "Hours": {
+                "Sunday": "11:00am-1:00am",
+                "Monday": "11:00am-1:00am",
+                "Tuesday": "11:00am-1:00am",
+                "Wednesday": "11:00am-1:00am",
+                "Thursday": "11:00am-1:00am",
+                "Friday": "11:00am-2:00am",
+                "Saturday": "11:00am-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$3.25 Keeper Cup Drafts"
+                },
+                "Monday": {
+                    "Special": "$3 Skyy Bombs"
+                },
+                "Tuesday": {
+                    "Special": "$2 Domestic Bottles"
+                },
+                "Wednesday": {
+                    "Special": "$4 Domestic Pitchers"
+                },
+                "Thursday": {
+                    "Special": "$2.25 Domestic Bottles"
+                },
+                "Friday": {
+                    "Special": "$2 16oz Domestic Drafts"
+                },
+                "Saturday": {
+                    "Special": "No Specials"
+                }
+            }
+        },
+        {
+            "Name": "Six Strings",
+            "ShortName": "sixstrings",
+            "Street": "525 N. Center",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-829-9977",
+            "Email": "sixstringsclub@msn.com",
+            "Website": "http://www.sixstringsclub.com",
+            "Website2": "http://www.myspace.com/sixstringsclub",
+            "Facebook": "http://www.facebook.com/sixstringsclub",
+            "Twitter": "",
+            "Image": "./images/sixstrings.jpg",
+            "Hours": {
+                "Sunday": "Closed",
+                "Monday": "Closed",
+                "Tuesday": "Closed",
+                "Wednesday": "7:00pm-1:00am",
+                "Thursday": "6:00pm-1:00am",
+                "Friday": "7:00pm-2:00am",
+                "Saturday": "7:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Monday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Tuesday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Wednesday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Thursday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Friday": "FREE before 9:00pm, $5 after 9:00pm",
+                "Saturday": "FREE before 9:00pm, $5 after 9:00pm"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Monday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Tuesday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Wednesday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Thursday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Friday": {
+                    "Special": "$12 64oz Fishbowls"
+                },
+                "Saturday": {
+                    "Special": "$12 64oz Fishbowls"
+                }
+            }
+        },
+        {
+            "Name": "The Loft",
+            "ShortName": "theloft",
+            "Street": "220 E. Front",
+            "City": "Bloomington",
+            "State": "IL",
+            "Zip": "61701",
+            "Phone": "309-828-8464",
+            "Email": "info@centralstation.com",
+            "Website": "",
+            "Website2": "",
+            "Facebook": "",
+            "Twitter": "",
+            "Image": "./images/theloft.jpg",
+            "Hours": {
+                "Sunday": "5:00pm-1am",
+                "Monday": "Closed",
+                "Tuesday": "5:00pm-1am",
+                "Wednesday": "5:00pm-1am",
+                "Thursday": "5:00pm-1am",
+                "Friday": "4:00pm-2am",
+                "Saturday": "5:00pm-2:00am"
+            },
+            "Cover": {
+                "Sunday": "No Cover",
+                "Monday": "No Cover",
+                "Tuesday": "No Cover",
+                "Wednesday": "No Cover",
+                "Thursday": "No Cover",
+                "Friday": "No Cover",
+                "Saturday": "No Cover"
+            },
+            "Specials": {
+                "Sunday": {
+                    "Special": "No Specials"
+                },
+                "Monday": {
+                    "Special": "No Specials"
+                },
+                "Tuesday": {
+                    "Special": "No Specials"
+                },
+                "Wednesday": {
+                    "Special": "No Specials"
+                },
+                "Thursday": {
+                    "Special": "$1 Wells and Bottles"
+                },
+                "Friday": {
+                    "Special": "$2 Domestic Bottles"
+                },
+                "Saturday": {
+                    "Special": "No Specials"
+                }
+            }
+        }
+    ]
+}
