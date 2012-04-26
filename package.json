@@ -2,7 +2,6 @@
   "name": "bar-specials-api",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.2.0",
-    "twilio" : "0.4.0"
+    "express": "2.2.0"
   }
 }
