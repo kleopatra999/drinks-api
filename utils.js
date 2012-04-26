@@ -18,8 +18,7 @@ module.exports = {
 	},
 	getBar : function(req, res){
 		var bar = req.params.bar;
-		bar = bar.replace(/\s/g, "");
-		bar = bar.toLowerCase();
+		bar = bar.replace(/\s/g, "").toLowerCase();
 		return bar;
 	}
 };
