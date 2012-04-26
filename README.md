@@ -1,4 +1,4 @@
-drinks-api
+#drinks-api
 
   A dead simple RESTful web service built on [node](http://nodejs.org).
   
