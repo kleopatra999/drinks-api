@@ -1,12 +1,16 @@
 // Setup Server & Express
 var express = require('express'),
+	fs = require('fs'),
 	app = express.createServer(express.logger());
 
 // Load Utils
 var utils = require('./utils');
 
+// Load Bars
+var bars = JSON.parse(fs.readFileSync('./bars.json'));
+
 // Setup Routes
-require('./routes')(app, utils);
+require('./routes')(app, utils, bars);
 
 // Make a demo for desktop notifications
 // Make a demo with WebRTC
